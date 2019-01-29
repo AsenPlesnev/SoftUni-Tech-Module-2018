@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\bin\Debug\netcoreapp2.0\Month Printer.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\bin\Debug\netcoreapp2.0\Month Printer.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\bin\Debug\netcoreapp2.0\Month Printer.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\bin\Debug\netcoreapp2.0\Month Printer.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\bin\Debug\netcoreapp2.0\Month Printer.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\obj\Debug\netcoreapp2.0\Month Printer.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\obj\Debug\netcoreapp2.0\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\obj\Debug\netcoreapp2.0\Month Printer.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\obj\Debug\netcoreapp2.0\Month Printer.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\obj\Debug\netcoreapp2.0\Month Printer.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Month Printer\obj\Debug\netcoreapp2.0\Month Printer.pdb

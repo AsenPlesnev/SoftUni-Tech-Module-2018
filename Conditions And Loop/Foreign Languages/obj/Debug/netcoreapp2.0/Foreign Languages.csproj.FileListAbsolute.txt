@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.pdb

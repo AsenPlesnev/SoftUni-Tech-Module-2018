@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.pdb

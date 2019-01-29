@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.pdb

@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\bin\Debug\netcoreapp2.0\Theatre.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\bin\Debug\netcoreapp2.0\Theatre.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\bin\Debug\netcoreapp2.0\Theatre.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\bin\Debug\netcoreapp2.0\Theatre.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\bin\Debug\netcoreapp2.0\Theatre.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\obj\Debug\netcoreapp2.0\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\obj\Debug\netcoreapp2.0\Theatre.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\obj\Debug\netcoreapp2.0\Theatre.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\obj\Debug\netcoreapp2.0\Theatre.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Theatre\obj\Debug\netcoreapp2.0\Theatre.pdb

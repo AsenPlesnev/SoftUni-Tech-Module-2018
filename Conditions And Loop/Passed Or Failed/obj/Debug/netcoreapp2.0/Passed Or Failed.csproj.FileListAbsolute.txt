@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\bin\Debug\netcoreapp2.0\Passed Or Failed.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\bin\Debug\netcoreapp2.0\Passed Or Failed.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\bin\Debug\netcoreapp2.0\Passed Or Failed.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\bin\Debug\netcoreapp2.0\Passed Or Failed.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\bin\Debug\netcoreapp2.0\Passed Or Failed.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\obj\Debug\netcoreapp2.0\Passed Or Failed.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\obj\Debug\netcoreapp2.0\Passed Or Failed.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\obj\Debug\netcoreapp2.0\Passed Or Failed.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\obj\Debug\netcoreapp2.0\Passed Or Failed.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\obj\Debug\netcoreapp2.0\Passed Or Failed.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Conditions And Loop\Passed Or Failed\obj\Debug\netcoreapp2.0\Passed Or Failed.pdb
