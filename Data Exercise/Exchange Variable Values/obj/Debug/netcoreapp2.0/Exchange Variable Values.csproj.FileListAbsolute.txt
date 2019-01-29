@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.pdb

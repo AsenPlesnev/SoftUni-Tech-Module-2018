@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\bin\Debug\netcoreapp2.0\Integer To Hex And Binary.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\bin\Debug\netcoreapp2.0\Integer To Hex And Binary.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\bin\Debug\netcoreapp2.0\Integer To Hex And Binary.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\bin\Debug\netcoreapp2.0\Integer To Hex And Binary.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\bin\Debug\netcoreapp2.0\Integer To Hex And Binary.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\obj\Debug\netcoreapp2.0\Integer To Hex And Binary.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\obj\Debug\netcoreapp2.0\Integer To Hex And Binary.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\obj\Debug\netcoreapp2.0\Integer To Hex And Binary.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\obj\Debug\netcoreapp2.0\Integer To Hex And Binary.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\obj\Debug\netcoreapp2.0\Integer To Hex And Binary.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Integer To Hex And Binary\obj\Debug\netcoreapp2.0\Integer To Hex And Binary.pdb

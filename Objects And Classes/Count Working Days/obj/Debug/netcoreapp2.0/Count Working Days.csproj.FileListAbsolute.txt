@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.pdb

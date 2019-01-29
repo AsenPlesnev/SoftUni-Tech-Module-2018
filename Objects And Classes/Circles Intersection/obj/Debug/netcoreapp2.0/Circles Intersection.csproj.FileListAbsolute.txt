@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.pdb

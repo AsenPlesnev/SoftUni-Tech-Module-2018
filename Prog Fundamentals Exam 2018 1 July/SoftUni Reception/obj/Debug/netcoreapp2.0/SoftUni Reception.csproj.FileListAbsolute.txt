@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.pdb

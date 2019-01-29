@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.pdb

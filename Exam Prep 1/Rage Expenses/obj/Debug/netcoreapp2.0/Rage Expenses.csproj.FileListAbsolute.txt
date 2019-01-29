@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.pdb

@@ -1,0 +1,7 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\bin\Debug\Bank Receipt.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\bin\Debug\Bank Receipt.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\bin\Debug\Bank Receipt.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\obj\Debug\Bank Receipt.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\obj\Debug\Bank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\obj\Debug\Bank Receipt.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Bank Receipt\obj\Debug\Bank Receipt.pdb

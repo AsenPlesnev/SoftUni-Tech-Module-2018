@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\obj\Debug\netcoreapp2.0\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\obj\Debug\netcoreapp2.0\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\obj\Debug\netcoreapp2.0\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\bin\Debug\netcoreapp2.0\Multiply Evens by Odds.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\bin\Debug\netcoreapp2.0\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\bin\Debug\netcoreapp2.0\Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\bin\Debug\netcoreapp2.0\Multiply Evens by Odds.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\bin\Debug\netcoreapp2.0\Multiply Evens by Odds.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\obj\Debug\netcoreapp2.0\Multiply Evens by Odds.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Multiply Evens by Odds\obj\Debug\netcoreapp2.0\Multiply Evens by Odds.pdb

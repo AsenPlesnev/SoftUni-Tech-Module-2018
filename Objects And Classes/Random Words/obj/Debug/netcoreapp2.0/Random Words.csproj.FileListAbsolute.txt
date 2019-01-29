@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\bin\Debug\netcoreapp2.0\Random Words.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\bin\Debug\netcoreapp2.0\Random Words.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\bin\Debug\netcoreapp2.0\Random Words.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\bin\Debug\netcoreapp2.0\Random Words.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\bin\Debug\netcoreapp2.0\Random Words.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\obj\Debug\netcoreapp2.0\Random Words.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\obj\Debug\netcoreapp2.0\Random Words.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\obj\Debug\netcoreapp2.0\Random Words.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\obj\Debug\netcoreapp2.0\Random Words.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\obj\Debug\netcoreapp2.0\Random Words.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Random Words\obj\Debug\netcoreapp2.0\Random Words.pdb

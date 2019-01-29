@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\obj\Debug\netcoreapp2.0\Blank Receipt.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\obj\Debug\netcoreapp2.0\Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\obj\Debug\netcoreapp2.0\Blank Receipt.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\obj\Debug\netcoreapp2.0\Blank Receipt.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\bin\Debug\netcoreapp2.0\Blank Receipt.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\bin\Debug\netcoreapp2.0\Blank Receipt.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\bin\Debug\netcoreapp2.0\Blank Receipt.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\bin\Debug\netcoreapp2.0\Blank Receipt.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\bin\Debug\netcoreapp2.0\Blank Receipt.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\obj\Debug\netcoreapp2.0\Blank Receipt.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blank Receipt\obj\Debug\netcoreapp2.0\Blank Receipt.pdb

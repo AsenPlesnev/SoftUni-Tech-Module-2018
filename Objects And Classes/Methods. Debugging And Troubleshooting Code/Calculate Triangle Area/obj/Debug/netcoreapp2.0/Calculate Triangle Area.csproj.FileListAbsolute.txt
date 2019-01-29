@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\bin\Debug\netcoreapp2.0\Calculate Triangle Area.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\bin\Debug\netcoreapp2.0\Calculate Triangle Area.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\bin\Debug\netcoreapp2.0\Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\bin\Debug\netcoreapp2.0\Calculate Triangle Area.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\bin\Debug\netcoreapp2.0\Calculate Triangle Area.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\obj\Debug\netcoreapp2.0\Calculate Triangle Area.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\obj\Debug\netcoreapp2.0\Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\obj\Debug\netcoreapp2.0\Calculate Triangle Area.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\obj\Debug\netcoreapp2.0\Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\obj\Debug\netcoreapp2.0\Calculate Triangle Area.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Calculate Triangle Area\obj\Debug\netcoreapp2.0\Calculate Triangle Area.pdb

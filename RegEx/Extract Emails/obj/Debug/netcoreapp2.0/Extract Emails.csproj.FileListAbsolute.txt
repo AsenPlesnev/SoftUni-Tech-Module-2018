@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.pdb

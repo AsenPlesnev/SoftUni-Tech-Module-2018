@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.pdb

@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.pdb

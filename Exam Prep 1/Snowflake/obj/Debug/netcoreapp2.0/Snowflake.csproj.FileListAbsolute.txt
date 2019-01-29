@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 1\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.pdb

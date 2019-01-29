@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\bin\Debug\netcoreapp2.0\User Logs.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\bin\Debug\netcoreapp2.0\User Logs.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\bin\Debug\netcoreapp2.0\User Logs.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\bin\Debug\netcoreapp2.0\User Logs.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\bin\Debug\netcoreapp2.0\User Logs.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\obj\Debug\netcoreapp2.0\User Logs.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\obj\Debug\netcoreapp2.0\User Logs.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\obj\Debug\netcoreapp2.0\User Logs.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\obj\Debug\netcoreapp2.0\User Logs.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\obj\Debug\netcoreapp2.0\User Logs.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\User Logs\obj\Debug\netcoreapp2.0\User Logs.csprojAssemblyReference.cache

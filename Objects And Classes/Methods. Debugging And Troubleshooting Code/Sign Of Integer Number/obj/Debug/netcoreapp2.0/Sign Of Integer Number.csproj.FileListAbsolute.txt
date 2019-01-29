@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\bin\Debug\netcoreapp2.0\Sign Of Integer Number.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\bin\Debug\netcoreapp2.0\Sign Of Integer Number.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\bin\Debug\netcoreapp2.0\Sign Of Integer Number.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\bin\Debug\netcoreapp2.0\Sign Of Integer Number.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\bin\Debug\netcoreapp2.0\Sign Of Integer Number.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\obj\Debug\netcoreapp2.0\Sign Of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\obj\Debug\netcoreapp2.0\Sign Of Integer Number.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\obj\Debug\netcoreapp2.0\Sign Of Integer Number.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\obj\Debug\netcoreapp2.0\Sign Of Integer Number.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Sign Of Integer Number\obj\Debug\netcoreapp2.0\Sign Of Integer Number.pdb

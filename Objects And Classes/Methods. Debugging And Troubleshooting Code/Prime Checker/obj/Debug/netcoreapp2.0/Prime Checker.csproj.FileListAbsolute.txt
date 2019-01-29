@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.pdb

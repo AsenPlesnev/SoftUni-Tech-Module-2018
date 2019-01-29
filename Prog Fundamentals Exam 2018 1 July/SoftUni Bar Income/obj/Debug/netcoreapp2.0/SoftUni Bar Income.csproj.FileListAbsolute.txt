@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.csprojAssemblyReference.cache

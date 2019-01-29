@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.pdb

@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\bin\Debug\netcoreapp2.0\Anonymous Downsite.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\bin\Debug\netcoreapp2.0\Anonymous Downsite.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\bin\Debug\netcoreapp2.0\Anonymous Downsite.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\bin\Debug\netcoreapp2.0\Anonymous Downsite.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\bin\Debug\netcoreapp2.0\Anonymous Downsite.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\obj\Debug\netcoreapp2.0\Anonymous Downsite.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\obj\Debug\netcoreapp2.0\Anonymous Downsite.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\obj\Debug\netcoreapp2.0\Anonymous Downsite.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\obj\Debug\netcoreapp2.0\Anonymous Downsite.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\obj\Debug\netcoreapp2.0\Anonymous Downsite.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Exam Prep 2\Anonymous Downsite\obj\Debug\netcoreapp2.0\Anonymous Downsite.pdb

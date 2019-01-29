@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\bin\Debug\netcoreapp2.0\Fold And Sum.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\bin\Debug\netcoreapp2.0\Fold And Sum.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\bin\Debug\netcoreapp2.0\Fold And Sum.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\bin\Debug\netcoreapp2.0\Fold And Sum.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\bin\Debug\netcoreapp2.0\Fold And Sum.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\obj\Debug\netcoreapp2.0\Fold And Sum.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\obj\Debug\netcoreapp2.0\Fold And Sum.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\obj\Debug\netcoreapp2.0\Fold And Sum.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\obj\Debug\netcoreapp2.0\Fold And Sum.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\obj\Debug\netcoreapp2.0\Fold And Sum.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Fold And Sum\obj\Debug\netcoreapp2.0\Fold And Sum.csprojAssemblyReference.cache

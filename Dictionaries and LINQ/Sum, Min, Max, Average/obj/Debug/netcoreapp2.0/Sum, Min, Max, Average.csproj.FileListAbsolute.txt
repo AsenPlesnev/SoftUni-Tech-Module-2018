@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\Sum, Min, Max, Average.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\Sum, Min, Max, Average.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\Sum, Min, Max, Average.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\Sum, Min, Max, Average.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\Sum, Min, Max, Average.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\Sum, Min, Max, Average.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\Sum, Min, Max, Average.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\Sum, Min, Max, Average.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\Sum, Min, Max, Average.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\Sum, Min, Max, Average.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\Sum, Min, Max, Average.pdb

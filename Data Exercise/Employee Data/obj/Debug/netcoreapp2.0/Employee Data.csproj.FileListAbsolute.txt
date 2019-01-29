@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.pdb

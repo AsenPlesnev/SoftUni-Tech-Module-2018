@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\bin\Debug\netcoreapp2.0\SoftUni Exam Rules.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\bin\Debug\netcoreapp2.0\SoftUni Exam Rules.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\bin\Debug\netcoreapp2.0\SoftUni Exam Rules.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\bin\Debug\netcoreapp2.0\SoftUni Exam Rules.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\bin\Debug\netcoreapp2.0\SoftUni Exam Rules.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\obj\Debug\netcoreapp2.0\SoftUni Exam Rules.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\obj\Debug\netcoreapp2.0\SoftUni Exam Rules.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\obj\Debug\netcoreapp2.0\SoftUni Exam Rules.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\obj\Debug\netcoreapp2.0\SoftUni Exam Rules.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Exam Rules\obj\Debug\netcoreapp2.0\SoftUni Exam Rules.pdb

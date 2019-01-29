@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\obj\Debug\netcoreapp2.0\Reversed Chars.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\obj\Debug\netcoreapp2.0\Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\obj\Debug\netcoreapp2.0\Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\obj\Debug\netcoreapp2.0\Reversed Chars.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\bin\Debug\netcoreapp2.0\Reversed Chars.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\bin\Debug\netcoreapp2.0\Reversed Chars.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\bin\Debug\netcoreapp2.0\Reversed Chars.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\bin\Debug\netcoreapp2.0\Reversed Chars.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\bin\Debug\netcoreapp2.0\Reversed Chars.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\obj\Debug\netcoreapp2.0\Reversed Chars.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Reversed Chars\obj\Debug\netcoreapp2.0\Reversed Chars.pdb

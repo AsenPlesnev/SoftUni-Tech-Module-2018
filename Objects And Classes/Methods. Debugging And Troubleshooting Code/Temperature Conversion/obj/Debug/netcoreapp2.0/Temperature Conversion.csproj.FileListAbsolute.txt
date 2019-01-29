@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.pdb

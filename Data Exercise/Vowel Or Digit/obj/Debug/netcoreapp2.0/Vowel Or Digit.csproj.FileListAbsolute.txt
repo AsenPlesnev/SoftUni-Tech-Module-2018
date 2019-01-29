@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\bin\Debug\netcoreapp2.0\Vowel Or Digit.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\bin\Debug\netcoreapp2.0\Vowel Or Digit.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\bin\Debug\netcoreapp2.0\Vowel Or Digit.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\bin\Debug\netcoreapp2.0\Vowel Or Digit.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\bin\Debug\netcoreapp2.0\Vowel Or Digit.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\obj\Debug\netcoreapp2.0\Vowel Or Digit.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\obj\Debug\netcoreapp2.0\Vowel Or Digit.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\obj\Debug\netcoreapp2.0\Vowel Or Digit.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\obj\Debug\netcoreapp2.0\Vowel Or Digit.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\obj\Debug\netcoreapp2.0\Vowel Or Digit.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Vowel Or Digit\obj\Debug\netcoreapp2.0\Vowel Or Digit.pdb

@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.pdb

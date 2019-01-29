@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.pdb

@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\bin\Debug\netcoreapp2.0\Miners Task.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\bin\Debug\netcoreapp2.0\Miners Task.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\bin\Debug\netcoreapp2.0\Miners Task.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\bin\Debug\netcoreapp2.0\Miners Task.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\bin\Debug\netcoreapp2.0\Miners Task.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\obj\Debug\netcoreapp2.0\Miners Task.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\obj\Debug\netcoreapp2.0\Miners Task.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\obj\Debug\netcoreapp2.0\Miners Task.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\obj\Debug\netcoreapp2.0\Miners Task.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Dictionaries and LINQ\Miners Task\obj\Debug\netcoreapp2.0\Miners Task.pdb

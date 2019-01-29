@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.pdb

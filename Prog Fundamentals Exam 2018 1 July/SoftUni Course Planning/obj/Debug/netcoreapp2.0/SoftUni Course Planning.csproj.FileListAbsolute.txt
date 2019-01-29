@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\bin\Debug\netcoreapp2.0\SoftUni Course Planning.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\bin\Debug\netcoreapp2.0\SoftUni Course Planning.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\bin\Debug\netcoreapp2.0\SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\bin\Debug\netcoreapp2.0\SoftUni Course Planning.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\bin\Debug\netcoreapp2.0\SoftUni Course Planning.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\obj\Debug\netcoreapp2.0\SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\obj\Debug\netcoreapp2.0\SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\obj\Debug\netcoreapp2.0\SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\obj\Debug\netcoreapp2.0\SoftUni Course Planning.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\obj\Debug\netcoreapp2.0\SoftUni Course Planning.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Prog Fundamentals Exam 2018 1 July\SoftUni Course Planning\obj\Debug\netcoreapp2.0\SoftUni Course Planning.csprojAssemblyReference.cache

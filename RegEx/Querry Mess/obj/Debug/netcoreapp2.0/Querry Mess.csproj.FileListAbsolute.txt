@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\bin\Debug\netcoreapp2.0\Querry Mess.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\bin\Debug\netcoreapp2.0\Querry Mess.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\bin\Debug\netcoreapp2.0\Querry Mess.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\bin\Debug\netcoreapp2.0\Querry Mess.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\bin\Debug\netcoreapp2.0\Querry Mess.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\obj\Debug\netcoreapp2.0\Querry Mess.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\obj\Debug\netcoreapp2.0\Querry Mess.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\obj\Debug\netcoreapp2.0\Querry Mess.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\obj\Debug\netcoreapp2.0\Querry Mess.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\obj\Debug\netcoreapp2.0\Querry Mess.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\RegEx\Querry Mess\obj\Debug\netcoreapp2.0\Querry Mess.pdb

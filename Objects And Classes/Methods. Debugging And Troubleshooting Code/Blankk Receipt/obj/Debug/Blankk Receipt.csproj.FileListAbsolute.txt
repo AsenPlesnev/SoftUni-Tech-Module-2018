@@ -1,0 +1,6 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blankk Receipt\bin\Debug\Blankk Receipt.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blankk Receipt\bin\Debug\Blankk Receipt.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blankk Receipt\bin\Debug\Blankk Receipt.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blankk Receipt\obj\Debug\Blankk Receipt.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blankk Receipt\obj\Debug\Blankk Receipt.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Blankk Receipt\obj\Debug\Blankk Receipt.pdb

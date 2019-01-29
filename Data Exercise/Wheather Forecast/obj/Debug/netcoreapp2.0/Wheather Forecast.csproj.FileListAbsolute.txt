@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\bin\Debug\netcoreapp2.0\Wheather Forecast.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\bin\Debug\netcoreapp2.0\Wheather Forecast.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\bin\Debug\netcoreapp2.0\Wheather Forecast.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\bin\Debug\netcoreapp2.0\Wheather Forecast.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\bin\Debug\netcoreapp2.0\Wheather Forecast.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\obj\Debug\netcoreapp2.0\Wheather Forecast.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\obj\Debug\netcoreapp2.0\Wheather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\obj\Debug\netcoreapp2.0\Wheather Forecast.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\obj\Debug\netcoreapp2.0\Wheather Forecast.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\obj\Debug\netcoreapp2.0\Wheather Forecast.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Wheather Forecast\obj\Debug\netcoreapp2.0\Wheather Forecast.pdb

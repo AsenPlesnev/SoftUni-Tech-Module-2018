@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\bin\Debug\netcoreapp2.0\Math Power.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\bin\Debug\netcoreapp2.0\Math Power.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\bin\Debug\netcoreapp2.0\Math Power.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\bin\Debug\netcoreapp2.0\Math Power.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\bin\Debug\netcoreapp2.0\Math Power.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\obj\Debug\netcoreapp2.0\Math Power.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\obj\Debug\netcoreapp2.0\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\obj\Debug\netcoreapp2.0\Math Power.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\obj\Debug\netcoreapp2.0\Math Power.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\obj\Debug\netcoreapp2.0\Math Power.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Math Power\obj\Debug\netcoreapp2.0\Math Power.pdb

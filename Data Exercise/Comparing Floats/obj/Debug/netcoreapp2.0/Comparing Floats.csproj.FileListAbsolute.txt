@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Data Exercise\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.pdb

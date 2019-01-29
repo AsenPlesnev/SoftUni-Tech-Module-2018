@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Methods. Debugging And Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.pdb

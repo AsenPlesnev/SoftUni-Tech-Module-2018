@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\Objects And Classes\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.pdb
