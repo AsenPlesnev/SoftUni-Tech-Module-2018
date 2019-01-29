@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.deps.json
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.dll
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.pdb
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.dll
+C:\Users\NyonBG\source\repos\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.pdb

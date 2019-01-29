@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.deps.json
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.dll
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.pdb
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.dll
+C:\Users\NyonBG\source\repos\Arrays\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.pdb

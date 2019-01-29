@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\bin\Debug\netcoreapp2.0\Condense Array to Number.deps.json
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\bin\Debug\netcoreapp2.0\Condense Array to Number.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\bin\Debug\netcoreapp2.0\Condense Array to Number.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\bin\Debug\netcoreapp2.0\Condense Array to Number.dll
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\bin\Debug\netcoreapp2.0\Condense Array to Number.pdb
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\obj\Debug\netcoreapp2.0\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\obj\Debug\netcoreapp2.0\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\obj\Debug\netcoreapp2.0\Condense Array to Number.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\obj\Debug\netcoreapp2.0\Condense Array to Number.dll
+C:\Users\NyonBG\source\repos\Arrays\Condense Array to Number\obj\Debug\netcoreapp2.0\Condense Array to Number.pdb

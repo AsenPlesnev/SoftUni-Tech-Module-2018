@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.deps.json
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.dll
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.pdb
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.dll
+C:\Users\NyonBG\source\repos\Arrays\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.pdb

@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\bin\Debug\netcoreapp2.0\Days Of Week.deps.json
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\bin\Debug\netcoreapp2.0\Days Of Week.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\bin\Debug\netcoreapp2.0\Days Of Week.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\bin\Debug\netcoreapp2.0\Days Of Week.dll
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\bin\Debug\netcoreapp2.0\Days Of Week.pdb
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\obj\Debug\netcoreapp2.0\Days Of Week.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\obj\Debug\netcoreapp2.0\Days Of Week.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\obj\Debug\netcoreapp2.0\Days Of Week.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\obj\Debug\netcoreapp2.0\Days Of Week.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\obj\Debug\netcoreapp2.0\Days Of Week.dll
+C:\Users\NyonBG\source\repos\Arrays\Days Of Week\obj\Debug\netcoreapp2.0\Days Of Week.pdb
