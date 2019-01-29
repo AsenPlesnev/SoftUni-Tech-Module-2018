@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\obj\Debug\netcoreapp2.0\Triple Of Letters.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\obj\Debug\netcoreapp2.0\Triple Of Letters.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\obj\Debug\netcoreapp2.0\Triple Of Letters.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\obj\Debug\netcoreapp2.0\Triple Of Letters.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\bin\Debug\netcoreapp2.0\Triple Of Letters.deps.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\bin\Debug\netcoreapp2.0\Triple Of Letters.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\bin\Debug\netcoreapp2.0\Triple Of Letters.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\bin\Debug\netcoreapp2.0\Triple Of Letters.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\bin\Debug\netcoreapp2.0\Triple Of Letters.pdb
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\obj\Debug\netcoreapp2.0\Triple Of Letters.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Triple Of Letters\obj\Debug\netcoreapp2.0\Triple Of Letters.pdb

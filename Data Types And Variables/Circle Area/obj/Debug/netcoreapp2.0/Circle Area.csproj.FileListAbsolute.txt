@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.deps.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.pdb
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.pdb

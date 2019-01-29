@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\bin\Debug\netcoreapp2.0\Refactor Special Numbers.deps.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\bin\Debug\netcoreapp2.0\Refactor Special Numbers.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\bin\Debug\netcoreapp2.0\Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\bin\Debug\netcoreapp2.0\Refactor Special Numbers.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\bin\Debug\netcoreapp2.0\Refactor Special Numbers.pdb
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\obj\Debug\netcoreapp2.0\Refactor Special Numbers.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\obj\Debug\netcoreapp2.0\Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\obj\Debug\netcoreapp2.0\Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\obj\Debug\netcoreapp2.0\Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\obj\Debug\netcoreapp2.0\Refactor Special Numbers.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Refactor Special Numbers\obj\Debug\netcoreapp2.0\Refactor Special Numbers.pdb

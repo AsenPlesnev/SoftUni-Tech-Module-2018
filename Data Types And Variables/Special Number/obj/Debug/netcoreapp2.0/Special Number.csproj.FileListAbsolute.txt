@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\bin\Debug\netcoreapp2.0\Special Number.deps.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\bin\Debug\netcoreapp2.0\Special Number.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\bin\Debug\netcoreapp2.0\Special Number.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\bin\Debug\netcoreapp2.0\Special Number.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\bin\Debug\netcoreapp2.0\Special Number.pdb
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\obj\Debug\netcoreapp2.0\Special Number.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\obj\Debug\netcoreapp2.0\Special Number.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\obj\Debug\netcoreapp2.0\Special Number.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\obj\Debug\netcoreapp2.0\Special Number.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\obj\Debug\netcoreapp2.0\Special Number.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Special Number\obj\Debug\netcoreapp2.0\Special Number.pdb

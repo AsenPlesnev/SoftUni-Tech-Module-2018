@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\bin\Debug\netcoreapp2.0\Centuries To Minutes.deps.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\bin\Debug\netcoreapp2.0\Centuries To Minutes.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\bin\Debug\netcoreapp2.0\Centuries To Minutes.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\bin\Debug\netcoreapp2.0\Centuries To Minutes.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\bin\Debug\netcoreapp2.0\Centuries To Minutes.pdb
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\obj\Debug\netcoreapp2.0\Centuries To Minutes.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\obj\Debug\netcoreapp2.0\Centuries To Minutes.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\obj\Debug\netcoreapp2.0\Centuries To Minutes.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\obj\Debug\netcoreapp2.0\Centuries To Minutes.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\obj\Debug\netcoreapp2.0\Centuries To Minutes.dll
+C:\Users\NyonBG\source\repos\Data Types And Variables\Centuries To Minutes\obj\Debug\netcoreapp2.0\Centuries To Minutes.pdb
