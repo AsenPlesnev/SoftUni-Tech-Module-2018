@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\bin\Debug\netcoreapp2.0\Bomb Numbers.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\bin\Debug\netcoreapp2.0\Bomb Numbers.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\bin\Debug\netcoreapp2.0\Bomb Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\bin\Debug\netcoreapp2.0\Bomb Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\bin\Debug\netcoreapp2.0\Bomb Numbers.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\obj\Debug\netcoreapp2.0\Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\obj\Debug\netcoreapp2.0\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\obj\Debug\netcoreapp2.0\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\obj\Debug\netcoreapp2.0\Bomb Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\obj\Debug\netcoreapp2.0\Bomb Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Bomb Numbers\obj\Debug\netcoreapp2.0\Bomb Numbers.pdb

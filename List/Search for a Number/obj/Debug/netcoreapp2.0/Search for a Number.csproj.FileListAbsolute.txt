@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.pdb

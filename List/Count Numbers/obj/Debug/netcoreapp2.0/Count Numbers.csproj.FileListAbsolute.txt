@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\bin\Debug\netcoreapp2.0\Count Numbers.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\bin\Debug\netcoreapp2.0\Count Numbers.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\bin\Debug\netcoreapp2.0\Count Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\bin\Debug\netcoreapp2.0\Count Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\bin\Debug\netcoreapp2.0\Count Numbers.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\obj\Debug\netcoreapp2.0\Count Numbers.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\obj\Debug\netcoreapp2.0\Count Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\obj\Debug\netcoreapp2.0\Count Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\obj\Debug\netcoreapp2.0\Count Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\obj\Debug\netcoreapp2.0\Count Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Count Numbers\obj\Debug\netcoreapp2.0\Count Numbers.pdb

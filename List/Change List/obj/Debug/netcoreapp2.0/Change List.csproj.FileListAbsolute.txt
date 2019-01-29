@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\bin\Debug\netcoreapp2.0\Change List.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\bin\Debug\netcoreapp2.0\Change List.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\bin\Debug\netcoreapp2.0\Change List.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\bin\Debug\netcoreapp2.0\Change List.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\bin\Debug\netcoreapp2.0\Change List.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\obj\Debug\netcoreapp2.0\Change List.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\obj\Debug\netcoreapp2.0\Change List.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\obj\Debug\netcoreapp2.0\Change List.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\obj\Debug\netcoreapp2.0\Change List.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\obj\Debug\netcoreapp2.0\Change List.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Change List\obj\Debug\netcoreapp2.0\Change List.pdb

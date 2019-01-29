@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Max Sequence Of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence Of Equal Elements.csprojAssemblyReference.cache

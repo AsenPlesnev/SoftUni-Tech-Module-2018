@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\bin\Debug\netcoreapp2.0\Append List.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\bin\Debug\netcoreapp2.0\Append List.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\bin\Debug\netcoreapp2.0\Append List.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\bin\Debug\netcoreapp2.0\Append List.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\bin\Debug\netcoreapp2.0\Append List.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\obj\Debug\netcoreapp2.0\Append List.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\obj\Debug\netcoreapp2.0\Append List.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\obj\Debug\netcoreapp2.0\Append List.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\obj\Debug\netcoreapp2.0\Append List.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\obj\Debug\netcoreapp2.0\Append List.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Append List\obj\Debug\netcoreapp2.0\Append List.pdb

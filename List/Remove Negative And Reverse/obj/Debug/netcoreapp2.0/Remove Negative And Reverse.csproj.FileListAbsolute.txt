@@ -1,0 +1,11 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\bin\Debug\netcoreapp2.0\Remove Negative And Reverse.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\bin\Debug\netcoreapp2.0\Remove Negative And Reverse.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\bin\Debug\netcoreapp2.0\Remove Negative And Reverse.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\bin\Debug\netcoreapp2.0\Remove Negative And Reverse.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\bin\Debug\netcoreapp2.0\Remove Negative And Reverse.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\obj\Debug\netcoreapp2.0\Remove Negative And Reverse.csprojAssemblyReference.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\obj\Debug\netcoreapp2.0\Remove Negative And Reverse.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\obj\Debug\netcoreapp2.0\Remove Negative And Reverse.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\obj\Debug\netcoreapp2.0\Remove Negative And Reverse.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\obj\Debug\netcoreapp2.0\Remove Negative And Reverse.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Remove Negative And Reverse\obj\Debug\netcoreapp2.0\Remove Negative And Reverse.pdb

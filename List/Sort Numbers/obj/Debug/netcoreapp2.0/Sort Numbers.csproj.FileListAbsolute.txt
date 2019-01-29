@@ -1,0 +1,10 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\bin\Debug\netcoreapp2.0\Sort Numbers.deps.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\bin\Debug\netcoreapp2.0\Sort Numbers.runtimeconfig.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\bin\Debug\netcoreapp2.0\Sort Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\bin\Debug\netcoreapp2.0\Sort Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\bin\Debug\netcoreapp2.0\Sort Numbers.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\obj\Debug\netcoreapp2.0\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\obj\Debug\netcoreapp2.0\Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\obj\Debug\netcoreapp2.0\Sort Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\obj\Debug\netcoreapp2.0\Sort Numbers.dll
+C:\Users\NyonBG\Documents\Tech Module May 2018\List\Sort Numbers\obj\Debug\netcoreapp2.0\Sort Numbers.pdb
