@@ -1,0 +1,6 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Debit Card Generator\bin\Debug\Debit Card Generator.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Debit Card Generator\bin\Debug\Debit Card Generator.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Debit Card Generator\bin\Debug\Debit Card Generator.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Debit Card Generator\obj\Debug\Debit Card Generator.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Debit Card Generator\obj\Debug\Debit Card Generator.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Debit Card Generator\obj\Debug\Debit Card Generator.pdb

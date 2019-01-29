@@ -1,0 +1,6 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Character Stats\bin\Debug\Character Stats.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Character Stats\bin\Debug\Character Stats.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Character Stats\bin\Debug\Character Stats.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Character Stats\obj\Debug\Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Character Stats\obj\Debug\Character Stats.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Character Stats\obj\Debug\Character Stats.pdb

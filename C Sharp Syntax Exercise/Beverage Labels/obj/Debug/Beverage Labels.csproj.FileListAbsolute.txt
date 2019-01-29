@@ -1,0 +1,6 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Beverage Labels\obj\Debug\Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Beverage Labels\obj\Debug\Beverage Labels.pdb

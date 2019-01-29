@@ -1,0 +1,6 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Miles To Kilometers\bin\Debug\Miles To Kilometers.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Miles To Kilometers\bin\Debug\Miles To Kilometers.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Miles To Kilometers\bin\Debug\Miles To Kilometers.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Miles To Kilometers\obj\Debug\Miles To Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Miles To Kilometers\obj\Debug\Miles To Kilometers.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Miles To Kilometers\obj\Debug\Miles To Kilometers.pdb

@@ -1,0 +1,6 @@
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Rectangle Area\bin\Debug\Rectangle Area.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Rectangle Area\bin\Debug\Rectangle Area.pdb
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Rectangle Area\obj\Debug\Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Rectangle Area\obj\Debug\Rectangle Area.exe
+C:\Users\NyonBG\Documents\Tech Module May 2018\C Sharp Syntax Exercise\Rectangle Area\obj\Debug\Rectangle Area.pdb
